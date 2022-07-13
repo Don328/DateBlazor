@@ -1,0 +1,13 @@
+﻿@page "/day/{DateString}"
+
+@if (_date == DateTime.Today)
+{
+    <h3>Today</h3>
+    @_date.ToString("MMM d, yyyy")
+}
+else
+{
+    <h3>@_date.ToString("MMM d, yyyy")</h3>
+}
+
+
