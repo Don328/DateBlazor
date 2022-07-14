@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Shared\DateBlazor.Shared.csproj" />
+    <ProjectReference Include="..\Data\DateBlazor.Data.csproj" />
   </ItemGroup>
 
 </Project>
