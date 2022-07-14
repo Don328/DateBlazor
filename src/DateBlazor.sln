@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32414.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateBlazor.UI", "UI\DateBlazor.UI.csproj", "{FFB363A7-1F74-4477-AFC8-984B1298249E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateBlazor.Api", "API\DateBlazor.Api.csproj", "{1A4BCF7B-8B16-4E7A-83D0-F33E46FD1D0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FFB363A7-1F74-4477-AFC8-984B1298249E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFB363A7-1F74-4477-AFC8-984B1298249E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFB363A7-1F74-4477-AFC8-984B1298249E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A4BCF7B-8B16-4E7A-83D0-F33E46FD1D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A4BCF7B-8B16-4E7A-83D0-F33E46FD1D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A4BCF7B-8B16-4E7A-83D0-F33E46FD1D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A4BCF7B-8B16-4E7A-83D0-F33E46FD1D0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
